@@ -1,0 +1,8 @@
+# Build outputs
+/build/
+/cmake-build-*/
+
+# Compiler artifacts
+*.o
+*.obj
+*.d
