@@ -6,3 +6,6 @@
 *.o
 *.obj
 *.d
+
+# vscode
+.vscode/*
